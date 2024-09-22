@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Portfolio_resume](https://github.com/Priyabrata18/Portfolio_resume.git)
 
-- 🌱 I’m currently learning **Python,Java, Ethical Hacking,HTML&CSS,Javascript, React**
+- 🌱 I’m currently learning **Python,Java, Ethical Hacking,HTML&CSS,Javascript,React**
 
 - 👯 I’m looking to collaborate on [Music Player](https://github.com/Priyabrata18/Music-Player.git)
 
