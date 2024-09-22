@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das..;Develpoer+ Web Development..;Student+OpenSource+Enthusiast..;Learning+In+Public+..;Other;Nice+To+Meet&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+Web Development+...;Student+OpenSource+Enthusiast+...;Learning+In+Public+...;Nice+To+Meet.....&center=true">
 </p>
     
 <h3 align="center">A passionate frontend developer from India</h3>
