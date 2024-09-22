@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack development...;Cyber Security...;Data Analystics...;Learning+In+Public+...;A passionate frontend developer from India..;Nice+To+Meet.....&center=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack development...;Cyber Security...;Data Analystics...;Learning+In+Public+...;A+passionate+frontend+developer+from+India....;Nice+To+Meet.....&center=true">
 </p>
     
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
