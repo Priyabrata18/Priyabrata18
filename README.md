@@ -40,17 +40,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabrata18&" alt="priyabrata18" /></p>
 
-
-
-
-
-
-
-- 👋 Hi, I’m @Priyabrata18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - [![@priyabrata18's Holopin board](https://holopin.me/priyabrata18)](https://holopin.io/@priyabrata18)
 
 <!---
