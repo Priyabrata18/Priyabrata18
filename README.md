@@ -1,8 +1,7 @@
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack development...;Cyber Security...;Data Analystics...;Learning+In+Public+...;Nice+To+Meet.....&center=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack development...;Cyber Security...;Data Analystics...;Learning+In+Public+...;A passionate frontend developer from India..;Nice+To+Meet.....&center=true">
 </p>
     
-<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabrata18&label=Profile%20views&color=0e75b6&style=flat" alt="priyabrata18" /> </p>
@@ -43,9 +42,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabrata18&" alt="priyabrata18" /></p>
 
 
-
-![snake gif](https://github.com/Priyabrata18/Priyabrata18/blob/output/github-contribution-grid-snake.gif)
-
+## Welcome to my github Snake Contribution
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!---
 Priyabrata18/Priyabrata18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
