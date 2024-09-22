@@ -42,7 +42,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabrata18&" alt="priyabrata18" /></p>
 
-- [![@priyabrata18's Holopin board](https://holopin.me/priyabrata18)](https://holopin.io/@priyabrata18)
+
+
+![snake gif](https://github.com/Priyabrata18/Priyabrata18/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Priyabrata18/Priyabrata18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
