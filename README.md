@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hi👋+I'm+Priyabrata+Das..;Develpoer+Data Analytics+Web Development+Student+Open-Source+Enthusiast..;Learning+In+Public+..;Other;Nice+To+Meet&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das..;Develpoer+Data Analytics+Web Development+Student+OpenSource+Enthusiast..;Learning+In+Public+..;Other;Nice+To+Meet&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
     
-<h1 align="center">Hi 👋, I'm Priyabrata Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
