@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabrata18&label=Profile%20views&color=0e75b6&style=flat" alt="priyabrata18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyabrata18" alt="priyabrata18" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio_resume](https://github.com/Priyabrata18/Portfolio_resume.git)
 
