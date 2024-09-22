@@ -3,7 +3,7 @@
 </p>
     
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_725_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img align="right" alt="Coding" width="350" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_725_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabrata18&label=Profile%20views&color=0e75b6&style=flat" alt="priyabrata18" /> </p>
 
