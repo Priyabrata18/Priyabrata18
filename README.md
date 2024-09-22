@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<p allign="center">
+    
+(https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</p>
     
 <h1 align="center">Hi 👋, I'm Priyabrata Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
