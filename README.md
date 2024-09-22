@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack developer...;Learning+In+Public+...;Nice+To+Meet.....&center=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Priyabrata+Das+...;Develpoer+...;Web Development...;Student+...;Full Stack developer...;Cyber Security...;Data Analystics...;Learning+In+Public+...;Nice+To+Meet.....&center=true">
 </p>
     
 <h3 align="center">A passionate frontend developer from India</h3>
