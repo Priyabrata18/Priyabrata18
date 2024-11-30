@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **priyabratadas2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B2SP6LXYFNV5sDTxP2ru5qGXMd4LOWIb/view?usp=drive_link](https://drive.google.com/file/d/1B2SP6LXYFNV5sDTxP2ru5qGXMd4LOWIb/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B2SP6LXYFNV5sDTxP2ru5qGXMd4LOWIb/view?usp=drive_link](https://drive.google.com/file/d/1rrx7UOzKBxh1XlUPfWRJGryCGiHmUjE0/view?usp=drive_link)
 
 - ⚡ Fun fact **Your Brain is constantly eating itself.**
 
