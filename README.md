@@ -46,6 +46,7 @@
 
 ## Welcome to my github Snake Contribution
 <picture>
+ {"url":"https://www.credly.com/badges/4c3ead44-4649-47ce-adf2-0b36eba57638/accept"}
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.gif"
